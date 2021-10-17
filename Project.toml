@@ -1,0 +1,18 @@
+name = "VoxelPopuliEngine"
+uuid = "fc349976-e311-4529-85aa-88b9cc6f05cd"
+authors = ["Kiruse <contact@kiruse.dev>"]
+version = "0.1.0"
+
+[deps]
+ExtraFun = "963d7961-7533-4a80-bf6b-d3653d506006"
+GLFWAbstraction = "b4519675-ec9c-4dd5-a759-fbb42bea0e46"
+GenerateProperties = "ad744131-fa5b-4912-8d03-4395d7e5240b"
+GraphicsLayer = "715ac8d3-df97-4447-9c1f-a6ca368da29f"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+[compat]
+ExtraFun = "1.8.3"
+GLFWAbstraction = "0"
+GenerateProperties = "0.1"
+StaticArrays = "1.2.13"
+julia = "1.6"
