@@ -1,0 +1,8 @@
+name = "VoxelPopuliEngine"
+uuid = "b83c6379-4eb5-476d-920b-b7b05dd4726a"
+authors = ["kiruse <26940742+Kiruse@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+ExtraFun = "963d7961-7533-4a80-bf6b-d3653d506006"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
